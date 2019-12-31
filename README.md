@@ -14,3 +14,5 @@ Run with command:
 or
 `python3 inventory_bot.py name-of-text-file.txt test` to run under test sizes
 
+Note: code is writeten specific to client's SquareSpace Page
+
